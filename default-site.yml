@@ -21,4 +21,8 @@ output:
 
 antora:
   extensions:
-    - ./content/lib/new-page.js
+    #  - ./content/lib/new-page.js
+    # - ./content/lib/all-attrs.js
+    - ./content/lib/dev-page.js
+    # wip:
+    # - ./content/lib/dev-page-nav.js

@@ -5,3 +5,5 @@
 * xref:module-02.adoc[2. GitHub Sourced Container]
 ** xref:module-02.adoc#prerequisites[Install Prerequisites]
 ** xref:module-02.adoc#container[Enable Container]
+
+* xref:dev-page.adoc[3. Dev Page]

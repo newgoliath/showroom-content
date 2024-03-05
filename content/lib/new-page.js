@@ -7,8 +7,8 @@ module.exports.register = function () {
       path: 'modules/ROOT/pages/new-page.adoc',
       src: {
         path: 'modules/ROOT/pages/new-page.adoc',
-        component: 'antora',
-        version: '3.0',
+        component: 'modules',
+        version: 'master',
         module: 'ROOT',
         family: 'page',
         relative: 'new-page.adoc',
