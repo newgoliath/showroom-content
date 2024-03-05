@@ -18,3 +18,7 @@ runtime:
 
 output:
   dir: ./www
+
+antora:
+  extensions:
+    - ./content/lib/new-page.js
